@@ -26,6 +26,24 @@ npm i express-validator
 
 ---
 
+### 🕐 express-session
+
+npm i express-session
+
+npm i @types/express-session
+
+- https://www.npmjs.com/package/express-session
+
+- 🗃️ store session in mongodb
+
+npm i connect-mongodb-session
+
+npm i -D @types/connect-mongodb-session
+
+https://www.npmjs.com/package/connect-mongodb-session
+
+---
+
 ### 🗜️ compression
 
 npm i compression
