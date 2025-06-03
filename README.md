@@ -1,6 +1,6 @@
 # 📦 Packages
 
-Danh sách các gói cần thiết để thiết lập và phát triển dự án.
+Package list may needed
 
 ## 🔧 Essential
 
