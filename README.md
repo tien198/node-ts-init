@@ -20,9 +20,9 @@ npm i -D @types/express
 
 npm i express-validator
 
-`https://www.npmjs.com/package/express-validator`
+- https://www.npmjs.com/package/express-validator
 
-`https://express-validator.github.io/docs `
+- https://express-validator.github.io/docs
 
 ---
 
@@ -32,7 +32,7 @@ npm i compression
 
 npm i @types/compression
 
-`https://www.npmjs.com/package/compression`
+- https://www.npmjs.com/package/compression
 
 ---
 
@@ -54,7 +54,7 @@ npm i dotenv
 
 npm i helmet
 
-`https://helmetjs.github.io/`
+- https://helmetjs.github.io/
 
 ---
 
@@ -62,7 +62,7 @@ npm i helmet
 
 npm i bcryptjs
 
-`https://www.npmjs.com/package/bcryptjs`
+- https://www.npmjs.com/package/bcryptjs
 
 ---
 
@@ -72,7 +72,7 @@ npm i jsonwebtoken
 
 npm i -D @types/jsonwebtoken
 
-`https://www.npmjs.com/package/jsonwebtoken`
+- https://www.npmjs.com/package/jsonwebtoken
 
 ---
 
@@ -82,9 +82,9 @@ npm i lodash
 
 npm i -D @types/lodash
 
-`https://www.npmjs.com/package/lodash`
+- https://www.npmjs.com/package/lodash
 
-`https://lodash.com/`
+- https://lodash.com/
 
 ---
 
@@ -96,9 +96,9 @@ npm i mongoose
 
 npm i -D @types/mongoose
 
-`https://www.mongodb.com/resources/languages/mongodb-and-npm-tutorial`
+- https://www.mongodb.com/resources/languages/mongodb-and-npm-tutorial
 
-`https://www.npmjs.com/package/mongodb`
+- https://www.npmjs.com/package/mongodb
 
 ---
 
@@ -108,7 +108,7 @@ npm i multer
 
 npm i -D @types/multer
 
-`https://www.npmjs.com/package/multer`
+- https://www.npmjs.com/package/multer
 
 ---
 
@@ -116,9 +116,9 @@ npm i -D @types/multer
 
 npm i socket.io
 
-`https://www.npmjs.com/package/socket.io`
+- https://www.npmjs.com/package/socket.io
 
-`https://socket.io/`
+- https://socket.io/
 
 ---
 
@@ -128,4 +128,4 @@ npm i morgan
 
 npm i -D @types/morgan
 
-`https://www.npmjs.com/package/morgan`
+- https://www.npmjs.com/package/morgan
