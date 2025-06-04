@@ -48,7 +48,7 @@ https://www.npmjs.com/package/connect-mongodb-session
 
 npm i compression
 
-npm i @types/compression
+npm i -D @types/compression
 
 - https://www.npmjs.com/package/compression
 
