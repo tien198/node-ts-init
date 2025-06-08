@@ -3,7 +3,7 @@
         "target": "es2022",
         "esModuleInterop": true,
         "skipLibCheck": true,
-        "module": "NodeNext",
+        "module": "commonjs",
         "rootDir": "src",
         "outDir": "dist",
         "lib": [
@@ -13,7 +13,7 @@
         ///
         "allowImportingTsExtensions": true,
         "noEmit": true,
-        "verbatimModuleSyntax": true,
+        // "verbatimModuleSyntax": true,
         "noEmitOnError": true,
         // "erasableSyntaxOnly": true
         "plugins": [],
